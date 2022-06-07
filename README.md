@@ -1,7 +1,7 @@
 👋  Hi, I’m @Thorian1te :) #Bitcoin 
 
 I am an OpenSource Developer currently working on a project called Circuit
-- I am looking to collaborate on opensource projects
+- I am currently developing typescript packages
 
 
 ## Languages and Tools
